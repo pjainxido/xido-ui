@@ -1,0 +1,18 @@
+{
+  "name": "xido-ui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pjainxido/xido-ui.git",
+  "author": "pjainxido <pjainxido@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/classnames": "^2.3.1",
+    "@types/react": "^18.0.15",
+    "classnames": "^2.3.1",
+    "node-sass": "^7.0.1"
+  },
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
